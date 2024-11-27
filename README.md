@@ -4,14 +4,14 @@ An interactive AI-powered educational quiz application for developers to test an
 
 ## 🌟 Features
 
-- 🤖 AI-Generated Questions: Dynamic quiz generation using OpenAI
-- 🎯 Multiple Tech Domains: Frontend, Backend, System Design, DSA, and more
-- 🔐 User Authentication: Secure login and registration with Firebase
-- 📱 Responsive Design: Mobile-first approach with modern UI
-- 🎨 Dark Mode: Easy on the eyes
-- 🏆 Real-time Scoring: Immediate feedback on quiz performance
+-  AI-Generated Questions: Dynamic quiz generation using OpenAI
+-  Multiple Tech Domains: Frontend, Backend, System Design, DSA, and more
+-  User Authentication: Secure login and registration with Firebase
+-  Responsive Design: Mobile-first approach with modern UI
+-  Dark Mode: Easy on the eyes
+-  Real-time Scoring: Immediate feedback on quiz performance
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend Framework**: React with Vite
 - **Styling**: Tailwind CSS
@@ -21,7 +21,7 @@ An interactive AI-powered educational quiz application for developers to test an
 - **Routing**: React Router
 - **Notifications**: React Hot Toast
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -59,7 +59,7 @@ An interactive AI-powered educational quiz application for developers to test an
    npm run dev
    ```
 
-## 📚 Available Quiz Topics
+##  Available Quiz Topics
 
 - **Frontend Development**
   - React fundamentals
@@ -113,21 +113,17 @@ The application is deployed on Vercel. For your own deployment:
 4. Add the required environment variables
 5. Deploy!
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - OpenAI for the powerful GPT API
 - Firebase for authentication services
 - The React and Vite communities
 - All contributors and users of this application
-
-## 📧 Contact
-
-For any queries or suggestions, please open an issue in the GitHub repository.
